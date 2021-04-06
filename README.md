@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marine Montailler</h1>
-<h3 align="center">A Developer in training at the WILD CODE SCHOOL</h3>
+<h3 align="center">A web developer junior build by the Wild Code School and by myself</h3>
 
-- 🌱 I’m currently learning **Javascript, REACT, NodeJS, Express, MySQL**
+- 🌱 I’m currently learning **Javascript, REACT, VUE, NodeJS, LARAVEL, MySQL**
 
 - ⭐️ My school Projects :
 
