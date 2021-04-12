@@ -14,13 +14,12 @@
 
 <br/>
 <br/>
-- ⭐️ My personal Projects in building:
+- ⭐️ My personal Projects in progress :
+
 
 <p>
 <a href="https://laura-damien.netlify.app/" target="blank">Wedding Website</a>
 </p>
-<br/>
-<br/>
 <br/>
 
 <p align="center">
