@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
-- ⭐️ My personal Projects :
+- ⭐️ My personal Projects in building:
 
 <p>
 <a href="https://laura-damien.netlify.app/" target="blank">Wedding Website</a>
