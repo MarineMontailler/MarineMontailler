@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marine Montailler</h1>
 <h3 align="center">A web developer in **JS / PHP**</h3>
 
-<p>
+<p align="center">
 <a href="https://www.marinemontailler.com/" target="blank">⭐️ My website</a>
 </p>
 
