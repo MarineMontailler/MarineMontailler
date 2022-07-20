@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marine Montailler</h1>
-<h3 align="center">A web developer junior build by the Wild Code School and by myself</h3>
-
-- 🌱 I’m web developer in **Javascript, REACT, VUE, NodeJS, LARAVEL, MySQL**
-
-- ⭐️ My website :
+<h3 align="center">A web developer in **JS / PHP**</h3>
 
 <p>
-<a href="https://www.marinemontailler.com/" target="blank">Portefolio</a>
+<a href="https://www.marinemontailler.com/" target="blank">⭐️ My website</a>
 </p>
 
 <p align="center">
